@@ -2,31 +2,31 @@ Locales['en'] = {
 	-------------------------------------
 	-------------- Client ---------------
 	-------------------------------------
-	['fail'] = 'Tu veux pas rendre la cam ? N\'y la voiture pas de probleme',
-	['time'] = 'Il vous reste ~r~',
-	['time_minute'] = '~s~ minutes pour transporter la marchandise. Seconde : ~r~',
-	['press_start']	= 'Appuyez sur ~INPUT_CONTEXT~ pour obtenir une mission.',
-	['press_finish'] = 'Appuyez sur ~INPUT_CONTEXT~ pour livrer le vehicule.',
-	['not_good_veh'] = '~r~Tu n\'as pas le bon vehicule~s~, tu me prend pour un con ?!',
-	['give_drug'] = 'Tient voila la marchandise. On te rendra tes $',
-	['give_drug2'] = ' quand tu ramenera la caisse.',
-	['give_veh'] = 'Un mec arrive avec le vehicule, ce seras ~g~  ',
-	['give_veh2'] = ' ~s~ tu n\'as pas le choix',
-	['finish'] = 'La prochaine fois soi plus rapide. Tout le monde descend du vehicule.',
-	['finish2'] = 'Script ~r~concue est développé~s~ par le serveur ~b~Endora',
-	['finish_time'] = 'T\'es arriver en retard, rend ma caisse et casse toi.',
+	['fail'] = 'You do not want to make the cam? Do not worry about the car',
+	['time'] = 'You still have ~r~',
+	['time_minute'] = '~s~ minutes to transport the goods. Second : ~r~',
+	['press_start']	= 'Press ~INPUT_CONTEXT~ to get a mission.',
+	['press_finish'] = 'Press ~INPUT_CONTEXT~ to deliver the vehicle.',
+	['not_good_veh'] = '~r~You do not have the right vehicle~s~, are you taking me for an idiot ?!',
+	['give_drug'] = 'Here is the merchandise. We will give you back $',
+	['give_drug2'] = ' when you bring back the crate.',
+	['give_veh'] = 'A guy arrives with the vehicle, it will cost ~g~  ',
+	['give_veh2'] = ' ~s~ you do not have a choice',
+	['finish'] = 'Next time you will be faster. Everyone gets off the vehicle.',
+	['finish2'] = 'Script ~r~designed is developed~s~ by the server ~b~Endora',
+	['finish_time'] = 'You arrive late, make my case and break.',
 
 	-------------------------------------
 	-------------- Server ---------------
 	-------------------------------------
 
-	['have_drug'] = '~r~Vous avez deja de la marchandise',
-	['police_start'] = '~g~Un GoFast viens de commencer',
-	['need_cop'] = 'Aucune mission pour toi',
-	['dont_have_pack_drugs'] = 'Tu n\'as pas la drogue', 
-	['police_finish'] = '~r~Le GoFast viens de finir',
-	['position'] 	= 'Va sur cette position GPS au plus vite !!',
-	['your_reward'] = 'tu viens de te faire :~g~ ',
+	['have_drug'] = '~r~You already have merchandise',
+	['police_start'] = '~g~A GoFast just started',
+	['need_cop'] = 'No mission for you',
+	['dont_have_pack_drugs'] = 'You do not have drugs', 
+	['police_finish'] = '~r~GoFast just finished',
+	['position'] 	= 'Go to this GPS position as soon as possible !!',
+	['your_reward'] = 'you just made yourself :~g~ ',
 
 	
 }
